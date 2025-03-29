@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hackathon-portfolio/static/css/main.d6f53065.css",
-    "main.js": "/hackathon-portfolio/static/js/main.9d830022.js",
+    "main.css": "/hackathon-portfolio/static/css/main.fa32ea64.css",
+    "main.js": "/hackathon-portfolio/static/js/main.e059a0ac.js",
     "static/css/690.130bf68c.chunk.css": "/hackathon-portfolio/static/css/690.130bf68c.chunk.css",
     "static/js/690.8b415cc1.chunk.js": "/hackathon-portfolio/static/js/690.8b415cc1.chunk.js",
     "static/js/57.0278acfb.chunk.js": "/hackathon-portfolio/static/js/57.0278acfb.chunk.js",
@@ -16,8 +16,8 @@
     "static/js/773.d935e663.chunk.js": "/hackathon-portfolio/static/js/773.d935e663.chunk.js",
     "static/js/355.9ae46062.chunk.js": "/hackathon-portfolio/static/js/355.9ae46062.chunk.js",
     "index.html": "/hackathon-portfolio/index.html",
-    "main.d6f53065.css.map": "/hackathon-portfolio/static/css/main.d6f53065.css.map",
-    "main.9d830022.js.map": "/hackathon-portfolio/static/js/main.9d830022.js.map",
+    "main.fa32ea64.css.map": "/hackathon-portfolio/static/css/main.fa32ea64.css.map",
+    "main.e059a0ac.js.map": "/hackathon-portfolio/static/js/main.e059a0ac.js.map",
     "690.130bf68c.chunk.css.map": "/hackathon-portfolio/static/css/690.130bf68c.chunk.css.map",
     "690.8b415cc1.chunk.js.map": "/hackathon-portfolio/static/js/690.8b415cc1.chunk.js.map",
     "57.0278acfb.chunk.js.map": "/hackathon-portfolio/static/js/57.0278acfb.chunk.js.map",
@@ -33,7 +33,7 @@
     "355.9ae46062.chunk.js.map": "/hackathon-portfolio/static/js/355.9ae46062.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6f53065.css",
-    "static/js/main.9d830022.js"
+    "static/css/main.fa32ea64.css",
+    "static/js/main.e059a0ac.js"
   ]
 }
