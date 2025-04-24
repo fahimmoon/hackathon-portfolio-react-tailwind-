@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hackathon-portfolio-react-tailwind-/static/css/main.1f2d737a.css",
-    "main.js": "/hackathon-portfolio-react-tailwind-/static/js/main.b0d9c74b.js",
+    "main.js": "/hackathon-portfolio-react-tailwind-/static/js/main.a09acc78.js",
     "static/js/453.74768ed2.chunk.js": "/hackathon-portfolio-react-tailwind-/static/js/453.74768ed2.chunk.js",
     "static/js/690.b9d05268.chunk.js": "/hackathon-portfolio-react-tailwind-/static/js/690.b9d05268.chunk.js",
     "static/js/370.09a6108d.chunk.js": "/hackathon-portfolio-react-tailwind-/static/js/370.09a6108d.chunk.js",
@@ -12,7 +12,7 @@
     "static/js/977.8556eda8.chunk.js": "/hackathon-portfolio-react-tailwind-/static/js/977.8556eda8.chunk.js",
     "index.html": "/hackathon-portfolio-react-tailwind-/index.html",
     "main.1f2d737a.css.map": "/hackathon-portfolio-react-tailwind-/static/css/main.1f2d737a.css.map",
-    "main.b0d9c74b.js.map": "/hackathon-portfolio-react-tailwind-/static/js/main.b0d9c74b.js.map",
+    "main.a09acc78.js.map": "/hackathon-portfolio-react-tailwind-/static/js/main.a09acc78.js.map",
     "453.74768ed2.chunk.js.map": "/hackathon-portfolio-react-tailwind-/static/js/453.74768ed2.chunk.js.map",
     "690.b9d05268.chunk.js.map": "/hackathon-portfolio-react-tailwind-/static/js/690.b9d05268.chunk.js.map",
     "370.09a6108d.chunk.js.map": "/hackathon-portfolio-react-tailwind-/static/js/370.09a6108d.chunk.js.map",
@@ -24,6 +24,6 @@
   },
   "entrypoints": [
     "static/css/main.1f2d737a.css",
-    "static/js/main.b0d9c74b.js"
+    "static/js/main.a09acc78.js"
   ]
 }
